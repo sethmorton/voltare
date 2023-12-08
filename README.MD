@@ -38,6 +38,12 @@ Finally, it calculates the KDE and integrates over a given range to estimate the
 
 To use this script, simply run it in a Python environment. Make sure to set the necessary environment variables for the database connection and OpenWeatherMap API key.
 
+## Collaborators
+
+Seth M, Aryan J, Max N
+
+
+
 ## DISCLAIMER
 
 Connection details for the PostgreSQL database and OpenWeatherMap API key have been removed from the script for security reasons. The script will not run without these details.
